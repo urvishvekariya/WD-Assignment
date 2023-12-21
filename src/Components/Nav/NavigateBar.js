@@ -23,7 +23,7 @@ const NavigateBar = () => {
     },
   ];
   return (
-    <div className="tab-bar">
+    <div className="tab-bar mt-2">
       <TabBar activeKey={pathname} onChange={(value) => navigate(value)}>
         {tabs.map((item) => (
           <TabBar.Item key={item.key} icon={item.icon} title={item.title} />
