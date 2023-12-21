@@ -14,6 +14,7 @@
   color: #36a546;
 }
 .tab-bar {
+  height: 63px;
   bottom: 0;
   position: sticky;
   z-index: 100;

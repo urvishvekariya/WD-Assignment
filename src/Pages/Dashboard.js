@@ -2,7 +2,7 @@ import React from "react";
 import { Progress } from "antd";
 import Moptro_logo from "../assets/images/moptro_logo.png";
 import User_call from "../assets/images/user_call.png";
-import NavigateBar from "./NavigateBar";
+import NavigateBar from "../Components/Nav/NavigateBar";
 
 const Dashboard = () => {
   return (

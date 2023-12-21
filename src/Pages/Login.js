@@ -28,7 +28,7 @@ function Login() {
         toastId: email,
       });
       toast.info(
-        `Default Credentials | Email:${defaultemail} Password:${defaultPassword}`,
+        `Default Credentials | Email: ${defaultemail} Password: ${defaultPassword}`,
         {
           toastId: 1,
         }
