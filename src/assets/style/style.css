@@ -92,12 +92,21 @@
   width: 298px;
   height: 55px;
   background: #5e5e5e82 0% 0% no-repeat padding-box;
-  box-shadow: inset 0px 4px 0px #00000040;
+  /* box-shadow: inset 0px 4px 0px #00000040; */
   mix-blend-mode: normal;
-  border: 1px solid #595959;
+  /* border: 1px solid #595959; */
+  border: none;
+  outline: none;
   color: #ffffffb3;
   border-radius: 50px;
   border-right: transparent;
+}
+
+.user-main-div input:focus {
+  border: none;
+  outline: none;
+  border-color: #595959 !important;
+  border-inline-end-width: 0 !important;
 }
 
 .user-main-div input::placeholder {
@@ -109,6 +118,7 @@
 
 .user-main-div .ant-input-group-addon button {
   height: 55px;
+  width: 50px;
   background: #5e5e5e82 0% 0% no-repeat padding-box;
   box-shadow: inset 0px 4px 0px #00000040;
   mix-blend-mode: normal;
