@@ -15,8 +15,9 @@
 }
 .tab-bar {
   height: 63px;
+  width: 360px;
   bottom: 0;
-  position: sticky;
+  position: fixed;
   z-index: 100;
   color: #36a546;
   background: transparent linear-gradient(180deg, #000000 0%, #000e09 100%) 0%
