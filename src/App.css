@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+/* COMMON CSS */
+
+.ml-link {
+  font-size: 15px;
+  color: #36a546;
+  text-align: center;
+}
+
+.tab-bar svg {
+  color: #36a546;
+}
+.tab-bar {
+  bottom: 0;
+  position: sticky;
+  z-index: 100;
+  color: #36a546;
+  background: transparent linear-gradient(180deg, #000000 0%, #000e09 100%) 0%
+    0% no-repeat padding-box;
+  mix-blend-mode: normal;
+  border-radius: 28px;
+  opacity: 1;
+}

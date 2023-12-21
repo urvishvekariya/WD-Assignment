@@ -1,0 +1,23 @@
+.mt-button-default {
+    border-radius: 16px;
+    background: transparent linear-gradient(180deg, #00FF2580 0%, #000000 100%, #36A54680 100%) 0% 0% no-repeat padding-box;
+    font-size: 16px;
+    border: 2px solid #8CFF0026;
+    color: #FFFFFF8C;
+    opacity: 1;
+    height: 100%;
+    padding: 9px 12px;
+
+}
+
+.mt-button-default:hover {
+    border-radius: 16px;
+    background: transparent linear-gradient(180deg, #00FF2580 0%, #000000 100%, #36A54680 100%) 0% 0% no-repeat padding-box;
+    font-size: 16px;
+    border: 2px solid #8CFF0026;
+    color: #FFFFFF8C !important;
+    opacity: 1;
+    border-color: transparent !important;
+    height: 100%;
+
+}

@@ -1,0 +1,15 @@
+.mt-input-default {
+  border-radius: 16px;
+  box-shadow: inset 0px 3px 3px #fffdfd40, 3px 3px 3px #4a494947;
+  color: #ffffff;
+  background: #1f191966;
+  padding: 22px 12px;
+  height: 40px;
+  border-color: transparent;
+  width: 100%;
+}
+
+.mt-input-default::placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
