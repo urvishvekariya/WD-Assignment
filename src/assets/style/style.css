@@ -4,7 +4,7 @@
   min-height: auto;
   background: transparent linear-gradient(180deg, #000000 0%, #000e09 100%) 0%
     0% no-repeat padding-box;
-  border-radius: 28px;
+  /* border-radius: 28px; */
   margin: auto;
   overflow-x: hidden;
 }
