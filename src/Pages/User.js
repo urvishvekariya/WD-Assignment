@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Col, Input, Row } from "antd";
 import Moptro_logo from "../assets/images/moptro_logo.png";
 import User_call from "../assets/images/user_call.png";
-import userData from "../assets/data/user.json";
+import userData from "../assets/data/data.json";
 import NavigateBar from "../Components/Nav/NavigateBar";
 
 const { Search } = Input;
