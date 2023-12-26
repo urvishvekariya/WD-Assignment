@@ -1,4 +1,5 @@
-<!-- Default Login Credentials -->
+Default Login Credentials :
 
-email: user@example.com,
-password: 123
+Email: user@example.com,
+
+Password: 123
